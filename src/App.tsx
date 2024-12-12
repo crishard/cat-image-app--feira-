@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-4">
-      <h1 className="text-3xl font-bold mb-8">Conexão fofa ao backend</h1>
+      <h1 className="text-3xl font-bold mb-8">Conexão fofa com um backend</h1>
       <button
         onClick={fetchImage}
         className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline transition duration-300 ease-in-out transform hover:scale-105"
